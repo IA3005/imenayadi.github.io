@@ -5,8 +5,8 @@ title: Teaching
 
 ## Past courses
 
-- Tutorials on *Statistics and Machine Learning* for first-year engineering students in CentraleSupélec:
--- parametric estimation, Bayesian estimation, statistical tests, linear regression, model selection, logistic regression, principal component analysis, clustering, introduction to neural networks
+#### Tutorials on *Statistics and Machine Learning* for first-year engineering students in CentraleSupélec:
+- parametric estimation, Bayesian estimation, statistical tests, linear regression, model selection, logistic regression, principal component analysis, clustering, introduction to neural networks
 
 #### Tutorials on *Optimization* for second-year engineering students in CentraleSupélec:
 - existence and uniqueness of local and global minimizers, convexity, duality, Lagrange multipliers, gradient-descent methods, linear and integer programming, branch and bound algorithm, introduction to stochastic optimization
