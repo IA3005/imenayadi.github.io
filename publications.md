@@ -40,5 +40,5 @@ title: Publications
 ---
 
 ## Software
-- Contribution to **Benchopt – BCI benchmark** :   
-  https://github.com/benchopt/benchmark_bci
+- Contribution to **Benchopt – BCI benchmark** :  [https://github.com/benchopt/benchmark_bci]
+https://github.com/benchopt/benchmark_bci
