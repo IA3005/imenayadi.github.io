@@ -4,4 +4,4 @@ title: Curriculum Vitae
 ---
 
 You can download my CV here:  
-[Download CV (PDF)](cv.pdf)
+[Download CV (PDF)](CV.pdf)
