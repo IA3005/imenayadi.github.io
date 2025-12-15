@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Imen Ayadi
+title: Home
 ---
 
 ## About me
