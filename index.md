@@ -19,6 +19,6 @@ from covariance matrices**, motivated by real-world noisy and heterogeneous data
 - Signal processing (EEG, hyperspectral imaging)
 
 ## Contact
-- Email: your.email@institution.fr  
-- GitHub: https://github.com/yourusername  
-- Google Scholar / HAL: (optional)
+- Email: imenayadi3005@gmail.com 
+- GitHub: https://github.com/IA3005  
+- Google Scholar: https://scholar.google.com/citations?user=3MCnxlgAAAAJ&hl=fr
