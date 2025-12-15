@@ -1,0 +1,11 @@
+title: Imen Ayadi
+description: Applied Mathematics – Statistics, Riemannian Geometry, Signal Processing
+
+theme: minima
+
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - cv.md
