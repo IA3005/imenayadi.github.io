@@ -3,6 +3,8 @@ description: This website uses Google Analytics for anonymous usage statistics.
 
 theme: minima
 
+google_analytics: G-YJ9DD4DH2E
+
 header_pages:
   - index.md
   - research.md
