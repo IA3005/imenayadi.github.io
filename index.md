@@ -18,6 +18,7 @@ from covariance matrices**, motivated by real-world noisy and heterogeneous data
 - Covariance matrix modeling
 - Causal inference
 - Signal processing (in particular EEG)
+- Information geometry
 
 ## Contact
 - Email: imenayadi3005@gmail.com 
