@@ -8,7 +8,7 @@ I am a researcher in applied mathematics, working at the intersection of **robus
 Riemannian geometry and statistical learning**, with applications in **signal processing**,
 in particular, **electroencephalography (EEG)** and brain–computer interfaces.
 
-My research focuses on developing **robust statistical and geometric methods for learning
+My PhD research focuses on developing **robust statistical and geometric methods for learning
 from covariance matrices**, motivated by real-world noisy and heterogeneous data.
 
 ## Research interests
@@ -19,6 +19,7 @@ from covariance matrices**, motivated by real-world noisy and heterogeneous data
 - Causal inference
 - Signal processing (in particular EEG)
 - Information geometry
+- Also interested in: diffusion models, Physics-informed neural network (PINN), geometry-aware architectures, quantification of information flow 
 
 ## Contact
 - Email: imenayadi3005@gmail.com 
